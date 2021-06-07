@@ -1,0 +1,16 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Site</title>
+</head>
+<body>
+	<!-- A seguir, temos nossos títulos -->
+	<h1>Título</h1>
+	<b>Texto</b> de <i>exemplo</i>
+	<h2>Subtítulo</h2>
+	<h3>Outro Título</h3>
+	<h4>Mais um título</h4>
+	<h5>Outro título</h5>
+	<h6>Título final</h6>
+</body>
+</html>
